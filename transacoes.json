@@ -1,0 +1,452 @@
+[
+  {
+    "index": 1,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "2,864.35",
+    "cidade": "Rio de Janeiro",
+    "id": "c2460a44-21a6-4214-bbf3-adbb171dd052",
+    "datahora": "2024-04-01T11:17:31 +03:00"
+  },
+  {
+    "index": 2,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "2,032.12",
+    "cidade": "Rio de Janeiro",
+    "id": "ac353f35-b3ef-4776-8d9d-ca9310ce857f",
+    "datahora": "2024-04-01T11:09:21 +03:00"
+  },
+  {
+    "index": 3,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "3,448.17",
+    "cidade": "Rio de Janeiro",
+    "id": "0d144aa2-2d34-4649-ae49-f072ed7961dd",
+    "datahora": "2024-04-02T05:10:42 +03:00"
+  },
+  {
+    "index": 4,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "3,979.95",
+    "cidade": "Rio de Janeiro",
+    "id": "7f1fe4ae-bcdf-42b1-bfa2-9893c6f32a2f",
+    "datahora": "2024-04-01T07:48:51 +03:00"
+  },
+  {
+    "index": 5,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "2,338.27",
+    "cidade": "Rio de Janeiro",
+    "id": "27bf205e-941e-4247-b7ed-14d4001e3b0e",
+    "datahora": "2024-04-01T05:49:35 +03:00"
+  },
+  {
+    "index": 6,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "3,916.98",
+    "cidade": "Rio de Janeiro",
+    "id": "262abf27-e573-4962-b5db-defe4e8854a9",
+    "datahora": "2024-04-01T02:29:34 +03:00"
+  },
+  {
+    "index": 7,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "2,235.19",
+    "cidade": "Rio de Janeiro",
+    "id": "45347d74-0d89-4d30-a482-f8f919afe09d",
+    "datahora": "2024-04-01T04:45:42 +03:00"
+  },
+  {
+    "index": 8,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "1,202.25",
+    "cidade": "Rio de Janeiro",
+    "id": "92b54191-1257-4114-b382-f66f1b93f167",
+    "datahora": "2024-04-02T05:29:25 +03:00"
+  },
+  {
+    "index": 9,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "2,639.47",
+    "cidade": "Rio de Janeiro",
+    "id": "4fb0f8c3-b4a6-4e3f-8cd3-b97cf8f6c993",
+    "datahora": "2024-04-01T09:15:23 +03:00"
+  },
+  {
+    "index": 10,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "2,035.55",
+    "cidade": "Rio de Janeiro",
+    "id": "e75d490d-22d9-4ee1-9bba-72d97d75c377",
+    "datahora": "2024-04-01T11:29:22 +03:00"
+  },
+  {
+    "index": 11,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "3,714.07",
+    "cidade": "São Paulo",
+    "id": "3ad1c0e7-0cd0-48c7-a26a-c61789a0a673",
+    "datahora": "2024-04-01T11:30:22 +03:00"
+  },
+  {
+    "index": 12,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "3,663.20",
+    "cidade": "Rio de Janeiro",
+    "id": "3aa2581d-8582-4031-8e6c-e9b12cb80c6a",
+    "datahora": "2024-04-02T08:57:21 +03:00"
+  },
+  {
+    "index": 13,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "1,868.39",
+    "cidade": "Rio de Janeiro",
+    "id": "0c3e57b0-9d7e-4e87-b13d-431a17f18818",
+    "datahora": "2024-04-02T10:26:37 +03:00"
+  },
+  {
+    "index": 14,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "3,206.42",
+    "cidade": "Rio de Janeiro",
+    "id": "1ae8c408-358e-4cb8-a78e-f4d2a33bac63",
+    "datahora": "2024-04-02T06:20:50 +03:00"
+  },
+  {
+    "index": 15,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "3,048.23",
+    "cidade": "Rio de Janeiro",
+    "id": "483b84a0-be1d-481a-8cf4-d3a527fc9233",
+    "datahora": "2024-04-01T05:13:57 +03:00"
+  },
+  {
+    "index": 16,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "2,076.72",
+    "cidade": "Rio de Janeiro",
+    "id": "7500b939-5f59-4a1b-acc4-485894d916bb",
+    "datahora": "2024-04-02T12:35:55 +03:00"
+  },
+  {
+    "index": 17,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "1,877.85",
+    "cidade": "Rio de Janeiro",
+    "id": "810d5814-5108-4834-823d-b8294a434609",
+    "datahora": "2024-04-02T11:09:36 +03:00"
+  },
+  {
+    "index": 18,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "1,963.34",
+    "cidade": "Rio de Janeiro",
+    "id": "85119cc9-6417-415b-807c-f2402dc779c3",
+    "datahora": "2024-04-02T06:33:15 +03:00"
+  },
+  {
+    "index": 19,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "3,498.09",
+    "cidade": "Rio de Janeiro",
+    "id": "1c0eb889-f584-4113-8fa7-98499d253c85",
+    "datahora": "2024-04-01T11:31:09 +03:00"
+  },
+  {
+    "index": 20,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "2,623.17",
+    "cidade": "Rio de Janeiro",
+    "id": "07610b87-5d1e-4e02-a8c0-ed3b8d54a81a",
+    "datahora": "2024-04-02T06:40:09 +03:00"
+  },
+  {
+    "index": 21,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "3,922.67",
+    "cidade": "Rio de Janeiro",
+    "id": "e9a0aae8-0d6a-47e7-8788-3dfb97e24ad6",
+    "datahora": "2024-04-01T01:17:48 +03:00"
+  },
+  {
+    "index": 22,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "1,729.14",
+    "cidade": "Brasília",
+    "id": "c21a5c54-df0c-4ca5-9df5-19cd1fcafd22",
+    "datahora": "2024-04-01T01:19:48 +03:00"
+  },
+  {
+    "index": 23,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "1,651.22",
+    "cidade": "Rio de Janeiro",
+    "id": "37ac3012-0802-4074-a03e-26c987362b9e",
+    "datahora": "2024-04-01T04:37:43 +03:00"
+  },
+  {
+    "index": 24,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "3,819.60",
+    "cidade": "Rio de Janeiro",
+    "id": "5384bcc6-4f7a-46a6-90e8-1f9a1eff7064",
+    "datahora": "2024-04-01T04:32:03 +03:00"
+  },
+  {
+    "index": 25,
+    "conta": "11111-1",
+    "nome": "José",
+    "valor": "3,274.74",
+    "cidade": "Rio de Janeiro",
+    "id": "28c6dc92-d454-4169-9264-b381cb272c96",
+    "datahora": "2024-04-01T01:09:49 +03:00"
+  },
+  {
+    "index": 26,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,747.07",
+    "cidade": "São Paulo",
+    "id": "530f8919-1184-4a51-8125-a11bcd46659b",
+    "datahora": "2024-04-01T12:15:17 +03:00"
+  },
+  {
+    "index": 27,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "1,555.15",
+    "cidade": "São Paulo",
+    "id": "7b16c7dc-d9cd-49c8-a673-487b958bcfbc",
+    "datahora": "2024-04-02T04:41:20 +03:00"
+  },
+  {
+    "index": 28,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "3,841.35",
+    "cidade": "São Paulo",
+    "id": "1ff6755f-c7c3-41ce-950a-c1c3944e0a1a",
+    "datahora": "2024-04-01T06:49:08 +03:00"
+  },
+  {
+    "index": 29,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "1,354.88",
+    "cidade": "São Paulo",
+    "id": "08d6f502-573c-4278-bc6e-d568e1b12056",
+    "datahora": "2024-04-01T08:08:09 +03:00"
+  },
+  {
+    "index": 30,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "1,192.65",
+    "cidade": "São Paulo",
+    "id": "1e270163-54d4-4421-9018-516314f6fb14",
+    "datahora": "2024-04-01T06:34:41 +03:00"
+  },
+  {
+    "index": 31,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,765.71",
+    "cidade": "São Paulo",
+    "id": "d13058c2-bd14-418e-b9cf-170b7174a050",
+    "datahora": "2024-04-01T06:07:05 +03:00"
+  },
+  {
+    "index": 32,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "3,162.93",
+    "cidade": "São Paulo",
+    "id": "379ba7d0-b853-4b8d-a289-e5990b7a7af3",
+    "datahora": "2024-04-02T07:47:25 +03:00"
+  },
+  {
+    "index": 33,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "3,826.75",
+    "cidade": "São Paulo",
+    "id": "a39e89b5-e377-4dcc-b4ab-162a6cbaa603",
+    "datahora": "2024-04-02T02:25:25 +03:00"
+  },
+  {
+    "index": 34,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,735.81",
+    "cidade": "Rio de janeiro",
+    "id": "86f0758a-4c96-485b-9b92-03e1d89b74f7",
+    "datahora": "2024-04-02T02:27:25 +03:00"
+  },
+  {
+    "index": 35,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "3,045.74",
+    "cidade": "São Paulo",
+    "id": "88297bc1-a802-4956-a279-1db36340968a",
+    "datahora": "2024-04-01T09:33:55 +03:00"
+  },
+  {
+    "index": 36,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "1,787.46",
+    "cidade": "São Paulo",
+    "id": "2586af5e-1d64-4b6a-9109-9fc3b25f1fc8",
+    "datahora": "2024-04-02T02:38:29 +03:00"
+  },
+  {
+    "index": 37,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,824.51",
+    "cidade": "São Paulo",
+    "id": "255ff8d6-72f7-4528-9696-b6fd7b04e65e",
+    "datahora": "2024-04-01T06:43:02 +03:00"
+  },
+  {
+    "index": 38,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "1,420.46",
+    "cidade": "São Paulo",
+    "id": "9e9556c6-508b-40c8-8c92-0c28e3711daa",
+    "datahora": "2024-04-02T05:58:00 +03:00"
+  },
+  {
+    "index": 39,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "3,812.57",
+    "cidade": "São Paulo",
+    "id": "cb0b9970-26a5-4910-b9af-4461aeaf95bb",
+    "datahora": "2024-04-02T03:03:04 +03:00"
+  },
+  {
+    "index": 40,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,499.20",
+    "cidade": "São Paulo",
+    "id": "e81dd9db-b759-4cdc-bd08-1696590c56be",
+    "datahora": "2024-04-02T05:14:33 +03:00"
+  },
+  {
+    "index": 41,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "1,235.37",
+    "cidade": "São Paulo",
+    "id": "c81181c9-8d8e-42c9-b688-6bd1c6250724",
+    "datahora": "2024-04-01T09:24:21 +03:00"
+  },
+  {
+    "index": 42,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,891.47",
+    "cidade": "São Paulo",
+    "id": "a3d76f97-f674-4185-bbe9-3bfffab4a088",
+    "datahora": "2024-04-01T01:22:34 +03:00"
+  },
+  {
+    "index": 43,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,637.00",
+    "cidade": "Rio de janeiro",
+    "id": "cee0379c-df2d-4413-b863-1a9c702230c3",
+    "datahora": "2024-04-01T01:25:34 +03:00"
+  },
+  {
+    "index": 44,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,557.18",
+    "cidade": "São Paulo",
+    "id": "eebcdb97-11f8-4025-b2c1-a23df612a337",
+    "datahora": "2024-04-02T04:53:23 +03:00"
+  },
+  {
+    "index": 45,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,974.29",
+    "cidade": "São Paulo",
+    "id": "eadbbd7d-5b67-4434-99e7-5b345a9e7600",
+    "datahora": "2024-04-01T05:32:20 +03:00"
+  },
+  {
+    "index": 46,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,974.17",
+    "cidade": "São Paulo",
+    "id": "34aa3b6d-85e2-4657-b242-eddfae7e00d7",
+    "datahora": "2024-04-02T01:50:21 +03:00"
+  },
+  {
+    "index": 47,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,761.43",
+    "cidade": "São Paulo",
+    "id": "2a4a9633-8db3-4898-a3c9-bcf42e67dc74",
+    "datahora": "2024-04-01T04:47:49 +03:00"
+  },
+  {
+    "index": 48,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,809.99",
+    "cidade": "São Paulo",
+    "id": "5fdc536f-5816-4793-8547-666425e504fc",
+    "datahora": "2024-04-01T05:04:11 +03:00"
+  },
+  {
+    "index": 49,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "2,024.00",
+    "cidade": "São Paulo",
+    "id": "ff754b05-951e-46e8-a645-6614ba963023",
+    "datahora": "2024-04-01T02:23:03 +03:00"
+  },
+  {
+    "index": 50,
+    "conta": "22222-2",
+    "nome": "João",
+    "valor": "1,438.78",
+    "cidade": "São Paulo",
+    "id": "c50ba1ca-c535-4697-aad5-e524ffef9e13",
+    "datahora": "2024-04-01T06:02:53 +03:00"
+  }
+]
